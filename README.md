@@ -7,4 +7,5 @@ Every disease has some sort of effect on the human body. These effects are commo
 ## Diabetes Prediction Accuracy
 ![image](https://user-images.githubusercontent.com/51109416/95674824-527da080-0bd0-11eb-8ce9-a29cd2c3b09b.png)
 ## Disease Prediction using machine learning
+![image](https://user-images.githubusercontent.com/51109416/101022423-64a80980-3597-11eb-8dd0-b963d4b7238b.png)
 
